@@ -19,7 +19,7 @@ Explore all of my projects right here: [GitHub Profile](https://github.com/GmihS
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GmihSoukaina&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GmihSoukaina&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GmihSoukaina&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmihSoukaina&layout=donut)](https://github.com/GmihSoukaina/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GmihSoukaina&icon=0&color=0)](https://visitcount.itsvg.in)
