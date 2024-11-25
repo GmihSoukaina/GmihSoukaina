@@ -10,7 +10,6 @@ Currently, I'm on an exciting journey as a **1337 student**, diving deep into **
   
 Explore all of my projects right here: [GitHub Profile](https://github.com/GmihSoukaina)
 
-
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soukaina0993) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soukaina-gmih) 
 
