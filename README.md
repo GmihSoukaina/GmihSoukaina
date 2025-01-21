@@ -18,12 +18,10 @@ Explore all of my projects right here: [GitHub Profile](https://github.com/GmihS
 
 ## GitHub Stats:
 ![GmihSoukaina's Stats](https://github-readme-stats.vercel.app/api?username=GmihSoukaina&theme=default&show_icons=true&hide_border=false&count_private=true)
-![GmihSoukaina's Stats](https://streak-stats.demolab.com?user=GmihSoukaina&date_format=%5BY.%5Dn.j)
+![GmihSoukaina's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GmihSoukaina&layout=donut)
 ![GmihSoukaina's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GmihSoukaina&theme=github)
 ![GmihSoukaina's Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GmihSoukaina&theme=github&utcOffset=1)
 ![GmihSoukaina's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GmihSoukaina&theme=github)
-![GmihSoukaina's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GmihSoukaina&layout=donut)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GmihSoukaina&icon=0&color=0)](https://visitcount.itsvg.in)
